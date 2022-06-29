@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ernesto Alfonso",
+      "email": "es362824@gmail.com",
+      "telefono": "2227477548",
+      "empresa": "Hola mundo",
+      "id": 27
+    },
+    {
+      "nombre": "Alejandro Sanchez Montiel",
+      "email": "alesam321@gmail.com",
+      "telefono": "225223512",
+      "empresa": "Sharp",
+      "id": 28
+    },
+    {
+      "nombre": "Jaime Mauzan Perez",
+      "email": "ernest.alf@hotmail.com",
+      "telefono": "2223590043",
+      "empresa": "Motorola",
+      "id": 29
+    },
+    {
+      "nombre": "Martin Caceres",
+      "email": "mary._642@hotmail.com",
+      "telefono": "2225335512",
+      "empresa": "Coca-Cola",
+      "id": 30
+    }
+  ]
+}
